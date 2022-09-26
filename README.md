@@ -1,3 +1,5 @@
+This version forked to fix isses with ACLs. Fixed version and pull request has since been merged into main project.
+
 targetcli-fb
 ============
 
